@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "electron": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron main.js"
+  }
+}
